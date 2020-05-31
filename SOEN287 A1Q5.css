@@ -1,0 +1,71 @@
+body {
+	background-image: url("https://background-tiles.com/overview/red/patterns/large/1045.png");
+}
+
+div {
+	width: 300px;
+	margin: 15px;
+	border: 15px solid green;
+	padding: 15px;
+}
+
+table {
+	width: 360px;
+	margin: 15px;
+	border: 15px;
+	border: 15px solid blue;
+	border-top-style: dotted;
+	border-right-style: ridge;
+	border-bottom-style: double;
+	border-left-style: dashed;
+}
+
+th {
+	background-color: yellow;
+	padding: 10px;
+}
+
+#r2c1 {
+	border: 10px solid grey;
+	background: teal;
+}
+
+#c1ol {
+	list-style-type: upper-roman;
+}
+
+#r2c2 {
+	border: 10px solid purple;
+	background: orange;
+}
+
+#r2c2ul1 {
+	list-style-image: url('https://secure.i.telegraph.co.uk/multimedia/archive/00447/news-graphics-2007-_447082a.gif');
+}
+
+#r2c2ul2 {
+	color: purple;
+}
+
+#r3c1 {
+	border: 10px solid pink;
+	background: lightgreen;
+}
+
+#r3c2 {
+	border: 10px solid maroon;
+	background: violet;
+}
+
+#r3c2ol {
+	list-style-type: lower-greek;	
+}
+
+#r3c2ul1 {
+	list-style-type: square;
+	color: maroon;
+}
+
+#r3c2ul2 {
+	list-style-image: url('http://daxonet.com/wp-content/uploads/2017/07/orange-tick-icon.png');
+}
